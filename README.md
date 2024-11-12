@@ -5,5 +5,6 @@ Can be use in your PenTest scenario, this is not a perfect Program<br>
 3. Scantime FUD<br>
 
 DISCLAIMER<br>
-I am not responsible for any of your actions. This GitHub repository is made for educational purposes only!!!
+I am not responsible for any of your actions. This GitHub repository is made for educational purposes only!!!<br>
+Download the Release part
 
